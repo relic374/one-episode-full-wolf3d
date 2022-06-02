@@ -11,7 +11,7 @@ Or, you could just use my EXE ;)
 <h1>Installation</h1>
 1) Clone the repo (copy and paste 'git clone https://github.com/relic374/one-episode-full-wolf3d/')<br>
 2) Copy the file 'WOLF3D.EXE' in the folder named "WOLF3DEXE"<br>
-3) Paste/Replace the 'WOLF3D.EXE' in your mod's directory with the one you copied<br>
+3) Paste/Replace the 'WOLF3D.EXE' in your mod's directory with the one you copied<br><br>
 And thats that!
 <br>
 Thanks for messing around with this!<br>
